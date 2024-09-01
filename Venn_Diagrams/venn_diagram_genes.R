@@ -105,3 +105,4 @@ ggarrange(coding_dup_venn, coding_del_venn, nc_dup_venn, nc_del_venn,
 
 Reduce(intersect,list(dd_coding_dup$Gene_ID, asd_coding_dup$Gene_ID,asd_id_dd_coding_dup$Gene_ID))
 Reduce(intersect,list(dd_coding_dup$Gene_ID, scz_coding_dup$Gene_ID))
+
